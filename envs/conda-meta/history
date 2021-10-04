@@ -40,3 +40,24 @@
 +defaults/win-64::psycopg2-2.8.6-py39hcd4344a_1
 +defaults/win-64::python-3.9.1-h6244533_2
 # update specs: ['python=3.9.1']
+==> 2021-10-04 13:38:09 <==
+# cmd: C:\Users\hp\anaconda3\Scripts\conda-script.py install -c conda-forge pre-commit
+# conda version: 4.10.1
+-anaconda/win-64::ca-certificates-2020.10.14-0
++conda-forge/noarch::appdirs-1.4.4-pyh9f0ad1d_0
++conda-forge/noarch::cfgv-3.3.1-pyhd8ed1ab_0
++conda-forge/noarch::distlib-0.3.3-pyhd8ed1ab_0
++conda-forge/noarch::filelock-3.3.0-pyhd8ed1ab_0
++conda-forge/noarch::identify-2.3.0-pyhd8ed1ab_0
++conda-forge/noarch::nodeenv-1.6.0-pyhd8ed1ab_0
++conda-forge/noarch::pycparser-2.20-pyh9f0ad1d_2
++conda-forge/noarch::six-1.16.0-pyh6c4a22f_0
++conda-forge/noarch::toml-0.10.2-pyhd8ed1ab_0
++conda-forge/win-64::ca-certificates-2021.5.30-h5b45459_0
++conda-forge/win-64::cffi-1.14.6-py39h0878f49_1
++conda-forge/win-64::editdistance-s-1.0.0-py39h2e07f2f_1
++conda-forge/win-64::pre-commit-2.15.0-py39hcbf5309_0
++conda-forge/win-64::pyyaml-5.4.1-py39hb82d6ee_1
++conda-forge/win-64::virtualenv-20.4.7-py39hcbf5309_0
++conda-forge/win-64::yaml-0.2.5-he774522_0
+# update specs: ['pre-commit']

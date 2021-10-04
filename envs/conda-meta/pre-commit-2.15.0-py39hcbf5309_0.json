@@ -1,0 +1,1244 @@
+{
+  "build": "py39hcbf5309_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "cfgv >=2.0.0",
+    "identify >=1.0.0",
+    "nodeenv >=0.11.1",
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39",
+    "pyyaml >=5.1",
+    "toml",
+    "virtualenv >=20.0.8"
+  ],
+  "extracted_package_dir": "C:\\Users\\hp\\anaconda3\\pkgs\\pre-commit-2.15.0-py39hcbf5309_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/pre_commit-2.15.0.dist-info/INSTALLER",
+    "Lib/site-packages/pre_commit-2.15.0.dist-info/LICENSE",
+    "Lib/site-packages/pre_commit-2.15.0.dist-info/METADATA",
+    "Lib/site-packages/pre_commit-2.15.0.dist-info/RECORD",
+    "Lib/site-packages/pre_commit-2.15.0.dist-info/REQUESTED",
+    "Lib/site-packages/pre_commit-2.15.0.dist-info/WHEEL",
+    "Lib/site-packages/pre_commit-2.15.0.dist-info/direct_url.json",
+    "Lib/site-packages/pre_commit-2.15.0.dist-info/entry_points.txt",
+    "Lib/site-packages/pre_commit-2.15.0.dist-info/top_level.txt",
+    "Lib/site-packages/pre_commit/__init__.py",
+    "Lib/site-packages/pre_commit/__main__.py",
+    "Lib/site-packages/pre_commit/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/__main__.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/clientlib.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/color.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/constants.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/envcontext.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/error_handler.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/errors.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/file_lock.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/git.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/hook.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/logging_handler.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/main.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/output.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/parse_shebang.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/prefix.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/repository.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/staged_files_only.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/store.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/util.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/__pycache__/xargs.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/clientlib.py",
+    "Lib/site-packages/pre_commit/color.py",
+    "Lib/site-packages/pre_commit/commands/__init__.py",
+    "Lib/site-packages/pre_commit/commands/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/commands/__pycache__/autoupdate.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/commands/__pycache__/clean.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/commands/__pycache__/gc.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/commands/__pycache__/hook_impl.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/commands/__pycache__/init_templatedir.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/commands/__pycache__/install_uninstall.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/commands/__pycache__/migrate_config.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/commands/__pycache__/run.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/commands/__pycache__/sample_config.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/commands/__pycache__/try_repo.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/commands/autoupdate.py",
+    "Lib/site-packages/pre_commit/commands/clean.py",
+    "Lib/site-packages/pre_commit/commands/gc.py",
+    "Lib/site-packages/pre_commit/commands/hook_impl.py",
+    "Lib/site-packages/pre_commit/commands/init_templatedir.py",
+    "Lib/site-packages/pre_commit/commands/install_uninstall.py",
+    "Lib/site-packages/pre_commit/commands/migrate_config.py",
+    "Lib/site-packages/pre_commit/commands/run.py",
+    "Lib/site-packages/pre_commit/commands/sample_config.py",
+    "Lib/site-packages/pre_commit/commands/try_repo.py",
+    "Lib/site-packages/pre_commit/constants.py",
+    "Lib/site-packages/pre_commit/envcontext.py",
+    "Lib/site-packages/pre_commit/error_handler.py",
+    "Lib/site-packages/pre_commit/errors.py",
+    "Lib/site-packages/pre_commit/file_lock.py",
+    "Lib/site-packages/pre_commit/git.py",
+    "Lib/site-packages/pre_commit/hook.py",
+    "Lib/site-packages/pre_commit/languages/__init__.py",
+    "Lib/site-packages/pre_commit/languages/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/all.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/conda.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/coursier.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/dart.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/docker.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/docker_image.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/dotnet.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/fail.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/golang.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/helpers.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/node.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/perl.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/pygrep.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/python.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/r.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/ruby.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/rust.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/script.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/swift.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/__pycache__/system.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/languages/all.py",
+    "Lib/site-packages/pre_commit/languages/conda.py",
+    "Lib/site-packages/pre_commit/languages/coursier.py",
+    "Lib/site-packages/pre_commit/languages/dart.py",
+    "Lib/site-packages/pre_commit/languages/docker.py",
+    "Lib/site-packages/pre_commit/languages/docker_image.py",
+    "Lib/site-packages/pre_commit/languages/dotnet.py",
+    "Lib/site-packages/pre_commit/languages/fail.py",
+    "Lib/site-packages/pre_commit/languages/golang.py",
+    "Lib/site-packages/pre_commit/languages/helpers.py",
+    "Lib/site-packages/pre_commit/languages/node.py",
+    "Lib/site-packages/pre_commit/languages/perl.py",
+    "Lib/site-packages/pre_commit/languages/pygrep.py",
+    "Lib/site-packages/pre_commit/languages/python.py",
+    "Lib/site-packages/pre_commit/languages/r.py",
+    "Lib/site-packages/pre_commit/languages/ruby.py",
+    "Lib/site-packages/pre_commit/languages/rust.py",
+    "Lib/site-packages/pre_commit/languages/script.py",
+    "Lib/site-packages/pre_commit/languages/swift.py",
+    "Lib/site-packages/pre_commit/languages/system.py",
+    "Lib/site-packages/pre_commit/logging_handler.py",
+    "Lib/site-packages/pre_commit/main.py",
+    "Lib/site-packages/pre_commit/meta_hooks/__init__.py",
+    "Lib/site-packages/pre_commit/meta_hooks/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/meta_hooks/__pycache__/check_hooks_apply.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/meta_hooks/__pycache__/check_useless_excludes.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/meta_hooks/__pycache__/identity.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/meta_hooks/check_hooks_apply.py",
+    "Lib/site-packages/pre_commit/meta_hooks/check_useless_excludes.py",
+    "Lib/site-packages/pre_commit/meta_hooks/identity.py",
+    "Lib/site-packages/pre_commit/output.py",
+    "Lib/site-packages/pre_commit/parse_shebang.py",
+    "Lib/site-packages/pre_commit/prefix.py",
+    "Lib/site-packages/pre_commit/repository.py",
+    "Lib/site-packages/pre_commit/resources/__init__.py",
+    "Lib/site-packages/pre_commit/resources/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/resources/__pycache__/empty_template_setup.cpython-39.pyc",
+    "Lib/site-packages/pre_commit/resources/empty_template_.npmignore",
+    "Lib/site-packages/pre_commit/resources/empty_template_Cargo.toml",
+    "Lib/site-packages/pre_commit/resources/empty_template_LICENSE.renv",
+    "Lib/site-packages/pre_commit/resources/empty_template_Makefile.PL",
+    "Lib/site-packages/pre_commit/resources/empty_template_activate.R",
+    "Lib/site-packages/pre_commit/resources/empty_template_environment.yml",
+    "Lib/site-packages/pre_commit/resources/empty_template_go.mod",
+    "Lib/site-packages/pre_commit/resources/empty_template_main.go",
+    "Lib/site-packages/pre_commit/resources/empty_template_main.rs",
+    "Lib/site-packages/pre_commit/resources/empty_template_package.json",
+    "Lib/site-packages/pre_commit/resources/empty_template_pre_commit_placeholder_package.gemspec",
+    "Lib/site-packages/pre_commit/resources/empty_template_pubspec.yaml",
+    "Lib/site-packages/pre_commit/resources/empty_template_renv.lock",
+    "Lib/site-packages/pre_commit/resources/empty_template_setup.py",
+    "Lib/site-packages/pre_commit/resources/hook-tmpl",
+    "Lib/site-packages/pre_commit/resources/rbenv.tar.gz",
+    "Lib/site-packages/pre_commit/resources/ruby-build.tar.gz",
+    "Lib/site-packages/pre_commit/resources/ruby-download.tar.gz",
+    "Lib/site-packages/pre_commit/staged_files_only.py",
+    "Lib/site-packages/pre_commit/store.py",
+    "Lib/site-packages/pre_commit/util.py",
+    "Lib/site-packages/pre_commit/xargs.py",
+    "Scripts/pre-commit-script.py",
+    "Scripts/pre-commit-validate-config-script.py",
+    "Scripts/pre-commit-validate-config.exe",
+    "Scripts/pre-commit-validate-manifest-script.py",
+    "Scripts/pre-commit-validate-manifest.exe",
+    "Scripts/pre-commit.exe",
+    ".nonadmin"
+  ],
+  "fn": "pre-commit-2.15.0-py39hcbf5309_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\hp\\anaconda3\\pkgs\\pre-commit-2.15.0-py39hcbf5309_0",
+    "type": 1
+  },
+  "md5": "8e7ab9b32a9486dcd169ca5da8d5cc81",
+  "name": "pre-commit",
+  "package_tarball_full_path": "C:\\Users\\hp\\anaconda3\\pkgs\\pre-commit-2.15.0-py39hcbf5309_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/pre_commit-2.15.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit-2.15.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "ea2ca27cba7cc35822d95a46d59bcd3cc88e196592e6390d1949a359ffc990e8",
+        "sha256_in_prefix": "ea2ca27cba7cc35822d95a46d59bcd3cc88e196592e6390d1949a359ffc990e8",
+        "size_in_bytes": 1092
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit-2.15.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "0d05d828ca670dd9e388375e33ae30a24f3557eb49ba2677e1a3cfbd18451d15",
+        "sha256_in_prefix": "0d05d828ca670dd9e388375e33ae30a24f3557eb49ba2677e1a3cfbd18451d15",
+        "size_in_bytes": 1887
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit-2.15.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "e7b64cf93054491c9e52773a296d44c60a10ab4daa44d616525f97e7a1f30eaa",
+        "sha256_in_prefix": "e7b64cf93054491c9e52773a296d44c60a10ab4daa44d616525f97e7a1f30eaa",
+        "size_in_bytes": 11220
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit-2.15.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit-2.15.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "5b367c7308e1f25d23b542cd8d8ab51e9afe582a824603ebfbe4d7e0fe48d56a",
+        "sha256_in_prefix": "5b367c7308e1f25d23b542cd8d8ab51e9afe582a824603ebfbe4d7e0fe48d56a",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit-2.15.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "754585dae1dcc1e32f5e2dd7c6520849679bbbca72661ee80b6e0b3f1a2d6727",
+        "sha256_in_prefix": "754585dae1dcc1e32f5e2dd7c6520849679bbbca72661ee80b6e0b3f1a2d6727",
+        "size_in_bytes": 71
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit-2.15.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "655b71075a2ad31a1dcb8d512a6fdfba011526dddfe72c684c47585eb32fb17c",
+        "sha256_in_prefix": "655b71075a2ad31a1dcb8d512a6fdfba011526dddfe72c684c47585eb32fb17c",
+        "size_in_bytes": 199
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit-2.15.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "28c09ce53ac341c377302c7047bdbde3c636cc8ac82ca9ad9d201da960546bf2",
+        "sha256_in_prefix": "28c09ce53ac341c377302c7047bdbde3c636cc8ac82ca9ad9d201da960546bf2",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "a706867e52a5b93f84cc3ea8658b75b10cfdca34e1c8754201df996d0ae7b365",
+        "sha256_in_prefix": "a706867e52a5b93f84cc3ea8658b75b10cfdca34e1c8754201df996d0ae7b365",
+        "size_in_bytes": 79
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "286a12a0f1d36894664cd32e0ab3cb3fd721ef7492e53f086e8e55f9fe37f00d",
+        "sha256_in_prefix": "286a12a0f1d36894664cd32e0ab3cb3fd721ef7492e53f086e8e55f9fe37f00d",
+        "size_in_bytes": 131
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/__main__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "52e85bce8d20e0d013ea16b80af379c56fb65aaf4a23ab0cba552a9df4883212",
+        "sha256_in_prefix": "52e85bce8d20e0d013ea16b80af379c56fb65aaf4a23ab0cba552a9df4883212",
+        "size_in_bytes": 223
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/clientlib.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "bc636aa621bb1d235ab2e2f921d723c5cbf8eb2ff62a3557696da92362afeda8",
+        "sha256_in_prefix": "bc636aa621bb1d235ab2e2f921d723c5cbf8eb2ff62a3557696da92362afeda8",
+        "size_in_bytes": 10291
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/color.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "00924b6d04cb98a01fe7a29d0825ac3b1d38301c5e60d0ad378708f443cc77cd",
+        "sha256_in_prefix": "00924b6d04cb98a01fe7a29d0825ac3b1d38301c5e60d0ad378708f443cc77cd",
+        "size_in_bytes": 2619
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/constants.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4f0d012f431e57f248f4b0d9ebedf0fc63e1d07beeec969bb89c366cc6c35981",
+        "sha256_in_prefix": "4f0d012f431e57f248f4b0d9ebedf0fc63e1d07beeec969bb89c366cc6c35981",
+        "size_in_bytes": 614
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/envcontext.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "43034550166d93dc56e01453658d12bd1b648238cdc3e7ce92da33c86da57246",
+        "sha256_in_prefix": "43034550166d93dc56e01453658d12bd1b648238cdc3e7ce92da33c86da57246",
+        "size_in_bytes": 2011
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/error_handler.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "61ff91377c41b1335c831dd5aedfeebee450dd21f145416c46c8d977ed14822f",
+        "sha256_in_prefix": "61ff91377c41b1335c831dd5aedfeebee450dd21f145416c46c8d977ed14822f",
+        "size_in_bytes": 2242
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/errors.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "524e70e431915866228542190ed2512d81aac1b4f880c3de52d8bc960d4be10a",
+        "sha256_in_prefix": "524e70e431915866228542190ed2512d81aac1b4f880c3de52d8bc960d4be10a",
+        "size_in_bytes": 297
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/file_lock.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "c31fe0b986ab97be3d01e75cb1417bdb1185cdc4d53b112b56eaa8482bb20454",
+        "sha256_in_prefix": "c31fe0b986ab97be3d01e75cb1417bdb1185cdc4d53b112b56eaa8482bb20454",
+        "size_in_bytes": 1386
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/git.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d78ec9662f6d5af30631e444e3dd3de4746a273420daa6bee6134a25a6a578dc",
+        "sha256_in_prefix": "d78ec9662f6d5af30631e444e3dd3de4746a273420daa6bee6134a25a6a578dc",
+        "size_in_bytes": 7119
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/hook.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "bc88e84603edc6394aea9c12e8c5c2fb2af2ae5fd65274cd31e885e96fa0c470",
+        "sha256_in_prefix": "bc88e84603edc6394aea9c12e8c5c2fb2af2ae5fd65274cd31e885e96fa0c470",
+        "size_in_bytes": 2120
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/logging_handler.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "bcc49e9b0beccbf6bb11ec86166edd680520207171ac743b5e450bdbcfcc0fd6",
+        "sha256_in_prefix": "bcc49e9b0beccbf6bb11ec86166edd680520207171ac743b5e450bdbcfcc0fd6",
+        "size_in_bytes": 1434
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/main.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "fb68bd7f36f752fb3b49eb5a8449fa3ae6f3f6b1590eb1922b4ec35adad2e93e",
+        "sha256_in_prefix": "fb68bd7f36f752fb3b49eb5a8449fa3ae6f3f6b1590eb1922b4ec35adad2e93e",
+        "size_in_bytes": 10817
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/output.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "5214000d063cd88ff966f478fe1433f7070c824d677533b16fe8b4daede25879",
+        "sha256_in_prefix": "5214000d063cd88ff966f478fe1433f7070c824d677533b16fe8b4daede25879",
+        "size_in_bytes": 1114
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/parse_shebang.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "5ba97536ae679e956d8a54e8027441a552263951334241796b726a40955d6c80",
+        "sha256_in_prefix": "5ba97536ae679e956d8a54e8027441a552263951334241796b726a40955d6c80",
+        "size_in_bytes": 2703
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/prefix.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "676d9e6a926ff711b1d7356405d26cff0154345b2fef2abbaf3c74d39c730d0a",
+        "sha256_in_prefix": "676d9e6a926ff711b1d7356405d26cff0154345b2fef2abbaf3c74d39c730d0a",
+        "size_in_bytes": 1132
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/repository.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "5634a5f07a32786250fa8a644041a21f58e2f9b68cec121e9c6e9c9d45ea9271",
+        "sha256_in_prefix": "5634a5f07a32786250fa8a644041a21f58e2f9b68cec121e9c6e9c9d45ea9271",
+        "size_in_bytes": 7220
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/staged_files_only.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "720efe9143ca20baae78559847c604761a92f890ccd634dc489b4bf9a18a8d4f",
+        "sha256_in_prefix": "720efe9143ca20baae78559847c604761a92f890ccd634dc489b4bf9a18a8d4f",
+        "size_in_bytes": 2726
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/store.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "844a69299627b6d81390539d025341b6ab3e22899bc37a6bc6d0d4420639852d",
+        "sha256_in_prefix": "844a69299627b6d81390539d025341b6ab3e22899bc37a6bc6d0d4420639852d",
+        "size_in_bytes": 9473
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/util.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e1597e5e9fe81299565a695e2a06ee67f00c995807ae7dec8ead5b2fba6b79a8",
+        "sha256_in_prefix": "e1597e5e9fe81299565a695e2a06ee67f00c995807ae7dec8ead5b2fba6b79a8",
+        "size_in_bytes": 8590
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/__pycache__/xargs.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "2cadf87f45b2c68685248fa3ec9dfda8acc46b31f52787835ca6fae5a8771fd8",
+        "sha256_in_prefix": "2cadf87f45b2c68685248fa3ec9dfda8acc46b31f52787835ca6fae5a8771fd8",
+        "size_in_bytes": 4129
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/clientlib.py",
+        "path_type": "hardlink",
+        "sha256": "003694b52c2091b8106a4d5f6a2517f18283b0ba4aa67ae2a05d1ae0d610f42d",
+        "sha256_in_prefix": "003694b52c2091b8106a4d5f6a2517f18283b0ba4aa67ae2a05d1ae0d610f42d",
+        "size_in_bytes": 12000
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/color.py",
+        "path_type": "hardlink",
+        "sha256": "8f94dad07ed8cfd6945fde832e3840e83cb8b56666818ea85cd9bf63f263bc6d",
+        "sha256_in_prefix": "8f94dad07ed8cfd6945fde832e3840e83cb8b56666818ea85cd9bf63f263bc6d",
+        "size_in_bytes": 3183
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ccfa4eceec62422f00ba0817daf6b6618a7c3adbb05cc8c04202cca719cda060",
+        "sha256_in_prefix": "ccfa4eceec62422f00ba0817daf6b6618a7c3adbb05cc8c04202cca719cda060",
+        "size_in_bytes": 140
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/__pycache__/autoupdate.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "41faddba8210da925fb80d30027967669e8230eea941a8a5f0792a010c77e21d",
+        "sha256_in_prefix": "41faddba8210da925fb80d30027967669e8230eea941a8a5f0792a010c77e21d",
+        "size_in_bytes": 5716
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/__pycache__/clean.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "c39407a4ca37ff781f4873fb848e1ffa06a0b9b507ac2827be2b8db563cff7e3",
+        "sha256_in_prefix": "c39407a4ca37ff781f4873fb848e1ffa06a0b9b507ac2827be2b8db563cff7e3",
+        "size_in_bytes": 613
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/__pycache__/gc.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7c49e653dda1ee13aa1fa19dd14442dfce1c24c35c67a1f9fd9c2c926edd48b5",
+        "sha256_in_prefix": "7c49e653dda1ee13aa1fa19dd14442dfce1c24c35c67a1f9fd9c2c926edd48b5",
+        "size_in_bytes": 2763
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/__pycache__/hook_impl.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d18a8ad8818b2ecdc24048fa61073d85aac057f8b2ed40722bb4067ab6755c79",
+        "sha256_in_prefix": "d18a8ad8818b2ecdc24048fa61073d85aac057f8b2ed40722bb4067ab6755c79",
+        "size_in_bytes": 5516
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/__pycache__/init_templatedir.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "6c4907962ac368fd4731452de2e0536bf3abbfbeaed788df02baf8f503ab4025",
+        "sha256_in_prefix": "6c4907962ac368fd4731452de2e0536bf3abbfbeaed788df02baf8f503ab4025",
+        "size_in_bytes": 1186
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/__pycache__/install_uninstall.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4a7df498d72a14c3ff4a6dd39991f6a7823fdc5ad9d80699ed1e3911dfc4235c",
+        "sha256_in_prefix": "4a7df498d72a14c3ff4a6dd39991f6a7823fdc5ad9d80699ed1e3911dfc4235c",
+        "size_in_bytes": 4837
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/__pycache__/migrate_config.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1a945d23acf7041a7696fac4f11c3973598112aa2b6a22452bbde38920436a34",
+        "sha256_in_prefix": "1a945d23acf7041a7696fac4f11c3973598112aa2b6a22452bbde38920436a34",
+        "size_in_bytes": 1541
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/__pycache__/run.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "07d384edf89b9a3e945eb86a19de6ddb9b89db0006f0dcc311e24c700defdbe8",
+        "sha256_in_prefix": "07d384edf89b9a3e945eb86a19de6ddb9b89db0006f0dcc311e24c700defdbe8",
+        "size_in_bytes": 11238
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/__pycache__/sample_config.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a1bee0bdebe215b9f306e9ce561558c1044e31270eb7e0552e99a3464364617e",
+        "sha256_in_prefix": "a1bee0bdebe215b9f306e9ce561558c1044e31270eb7e0552e99a3464364617e",
+        "size_in_bytes": 649
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/__pycache__/try_repo.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "18b8f8ea0adb28d5f7657ba91cfa20ea7cd7c7788c96e0b7486a6a9a028d17c5",
+        "sha256_in_prefix": "18b8f8ea0adb28d5f7657ba91cfa20ea7cd7c7788c96e0b7486a6a9a028d17c5",
+        "size_in_bytes": 2673
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/autoupdate.py",
+        "path_type": "hardlink",
+        "sha256": "52feeb52960f9da1801ca239d4f04dfa6ba956b8e895e4aa16e755f14c0e8ead",
+        "sha256_in_prefix": "52feeb52960f9da1801ca239d4f04dfa6ba956b8e895e4aa16e755f14c0e8ead",
+        "size_in_bytes": 5933
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/clean.py",
+        "path_type": "hardlink",
+        "sha256": "6b95796ebc2278b5c08b4cdd418040bd5a8a8f4fccd4d7c37ebfd47a054ff229",
+        "sha256_in_prefix": "6b95796ebc2278b5c08b4cdd418040bd5a8a8f4fccd4d7c37ebfd47a054ff229",
+        "size_in_bytes": 393
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/gc.py",
+        "path_type": "hardlink",
+        "sha256": "ccad16d8ec1dc71308522f7faaf453d57abc5e4c9eef7b95b835e728208d8c7e",
+        "sha256_in_prefix": "ccad16d8ec1dc71308522f7faaf453d57abc5e4c9eef7b95b835e728208d8c7e",
+        "size_in_bytes": 2840
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/hook_impl.py",
+        "path_type": "hardlink",
+        "sha256": "931d9720fb67e152ab4c0275f0aaf0c5370c89e687eb98a58640f968daea23d5",
+        "sha256_in_prefix": "931d9720fb67e152ab4c0275f0aaf0c5370c89e687eb98a58640f968daea23d5",
+        "size_in_bytes": 7936
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/init_templatedir.py",
+        "path_type": "hardlink",
+        "sha256": "4518c7f6d231c08a644f1c65e7cedb56c59b18de5ab009ad4c8bc8deeaaeedcb",
+        "sha256_in_prefix": "4518c7f6d231c08a644f1c65e7cedb56c59b18de5ab009ad4c8bc8deeaaeedcb",
+        "size_in_bytes": 1124
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/install_uninstall.py",
+        "path_type": "hardlink",
+        "sha256": "dacbd01fcb06a4d404dd80ae5777844f95f210ab8dbec14f89f9b06df0c2d9a3",
+        "sha256_in_prefix": "dacbd01fcb06a4d404dd80ae5777844f95f210ab8dbec14f89f9b06df0c2d9a3",
+        "size_in_bytes": 5572
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/migrate_config.py",
+        "path_type": "hardlink",
+        "sha256": "efbde9e1f82a78f9ade5e7168dbb35aa9424059e67151227947d7aec471a88d2",
+        "sha256_in_prefix": "efbde9e1f82a78f9ade5e7168dbb35aa9424059e67151227947d7aec471a88d2",
+        "size_in_bytes": 1536
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/run.py",
+        "path_type": "hardlink",
+        "sha256": "f51add3cd9f7478f3e5cf4c116bc91a28352834dadaf2958d95a5a119aff8c43",
+        "sha256_in_prefix": "f51add3cd9f7478f3e5cf4c116bc91a28352834dadaf2958d95a5a119aff8c43",
+        "size_in_bytes": 13199
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/sample_config.py",
+        "path_type": "hardlink",
+        "sha256": "2be07adbe8dfe22eedfd0f7b7ce3810ad03d86787034118ff499b05ebf4c7831",
+        "sha256_in_prefix": "2be07adbe8dfe22eedfd0f7b7ce3810ad03d86787034118ff499b05ebf4c7831",
+        "size_in_bytes": 684
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/commands/try_repo.py",
+        "path_type": "hardlink",
+        "sha256": "5f25f6aad5bf7d0ac5397b7efc38d41fe7eddea9d6f532d8d71e456f8aa0ee39",
+        "sha256_in_prefix": "5f25f6aad5bf7d0ac5397b7efc38d41fe7eddea9d6f532d8d71e456f8aa0ee39",
+        "size_in_bytes": 2596
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/constants.py",
+        "path_type": "hardlink",
+        "sha256": "7891cf16801c90e9971ca4d8de06b0d1a942f0a6277b75841d907812ddb1752b",
+        "sha256_in_prefix": "7891cf16801c90e9971ca4d8de06b0d1a942f0a6277b75841d907812ddb1752b",
+        "size_in_bytes": 743
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/envcontext.py",
+        "path_type": "hardlink",
+        "sha256": "901e14c97ddd8128261e5c02d2eed0261a4ae85ce9405f16893d0e7c003f3696",
+        "sha256_in_prefix": "901e14c97ddd8128261e5c02d2eed0261a4ae85ce9405f16893d0e7c003f3696",
+        "size_in_bytes": 1607
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/error_handler.py",
+        "path_type": "hardlink",
+        "sha256": "255f4e4f29f1b589baf4705f277caa341f085a7835900522c9273d1652a7a15f",
+        "sha256_in_prefix": "255f4e4f29f1b589baf4705f277caa341f085a7835900522c9273d1652a7a15f",
+        "size_in_bytes": 2315
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/errors.py",
+        "path_type": "hardlink",
+        "sha256": "94c722e7e55f3acbd5488b76a2c86a768da233d2891d8fe2aa787fe0e892dac0",
+        "sha256_in_prefix": "94c722e7e55f3acbd5488b76a2c86a768da233d2891d8fe2aa787fe0e892dac0",
+        "size_in_bytes": 41
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/file_lock.py",
+        "path_type": "hardlink",
+        "sha256": "48da438302cb05b0287e2aa2d29973bd3e17fdc313d9c50e3560ded44a47e040",
+        "sha256_in_prefix": "48da438302cb05b0287e2aa2d29973bd3e17fdc313d9c50e3560ded44a47e040",
+        "size_in_bytes": 2536
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/git.py",
+        "path_type": "hardlink",
+        "sha256": "8ca8f7f44d9b20995e8138161326c67494e3e88113daea620cfc9267c4651473",
+        "sha256_in_prefix": "8ca8f7f44d9b20995e8138161326c67494e3e88113daea620cfc9267c4651473",
+        "size_in_bytes": 7965
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/hook.py",
+        "path_type": "hardlink",
+        "sha256": "ec1a6a9b65ab836f150566830547c41cc23ce02be8d0060d4fc697eb6c9a2baf",
+        "sha256_in_prefix": "ec1a6a9b65ab836f150566830547c41cc23ce02be8d0060d4fc697eb6c9a2baf",
+        "size_in_bytes": 1619
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "cfaba10225e14d8af4091836cc94c9b03d1d0544a697e707f078d97c7e37aae7",
+        "sha256_in_prefix": "cfaba10225e14d8af4091836cc94c9b03d1d0544a697e707f078d97c7e37aae7",
+        "size_in_bytes": 141
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/all.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4da0fd135e3bc44e86e5d3b87dfa0153ffcbc0756cb67c137baf3ddfe1018f2d",
+        "sha256_in_prefix": "4da0fd135e3bc44e86e5d3b87dfa0153ffcbc0756cb67c137baf3ddfe1018f2d",
+        "size_in_bytes": 2230
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/conda.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "cfd23f95ad0c062741def42a3fdc17bda7af5bb0a722defd8f63fc93f84e73a3",
+        "sha256_in_prefix": "cfd23f95ad0c062741def42a3fdc17bda7af5bb0a722defd8f63fc93f84e73a3",
+        "size_in_bytes": 2345
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/coursier.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "abf6b3625b337f8a921142fadc1208d926fa49d8a75662a8f8530173c1c07110",
+        "sha256_in_prefix": "abf6b3625b337f8a921142fadc1208d926fa49d8a75662a8f8530173c1c07110",
+        "size_in_bytes": 2149
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/dart.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7b75e63fdaa169b175fcc285b1f3432b719c139d20a388885406f0a16c6194a8",
+        "sha256_in_prefix": "7b75e63fdaa169b175fcc285b1f3432b719c139d20a388885406f0a16c6194a8",
+        "size_in_bytes": 3262
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/docker.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b9b926dc5a8c91deb5da2fab7f926841e2bd38e58308d2725e65f51d60fe548c",
+        "sha256_in_prefix": "b9b926dc5a8c91deb5da2fab7f926841e2bd38e58308d2725e65f51d60fe548c",
+        "size_in_bytes": 3889
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/docker_image.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9c4d06a68935b268da7e3c32cb40d3a3953bccf12ed2c13c64e1f75a5f6e7810",
+        "sha256_in_prefix": "9c4d06a68935b268da7e3c32cb40d3a3953bccf12ed2c13c64e1f75a5f6e7810",
+        "size_in_bytes": 789
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/dotnet.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e11ef8973d61e94b582d78265b49b58dbd120900c3a6f158260f3c1e3dd2629a",
+        "sha256_in_prefix": "e11ef8973d61e94b582d78265b49b58dbd120900c3a6f158260f3c1e3dd2629a",
+        "size_in_bytes": 2506
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/fail.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "14d3801d62b26b963a7d4be6ff316223937254f2bd4399385d6d08503f8692b4",
+        "sha256_in_prefix": "14d3801d62b26b963a7d4be6ff316223937254f2bd4399385d6d08503f8692b4",
+        "size_in_bytes": 881
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/golang.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "3e8fc8b55e9cdcd7e461a67dd9d081953eba8d290d1a3c8961d8ddcec7f81c6e",
+        "sha256_in_prefix": "3e8fc8b55e9cdcd7e461a67dd9d081953eba8d290d1a3c8961d8ddcec7f81c6e",
+        "size_in_bytes": 3014
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/helpers.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ff0b2abc50239fbea253a7d804eca8110ae7e04d30c99f9ba6452db9f72ec27a",
+        "sha256_in_prefix": "ff0b2abc50239fbea253a7d804eca8110ae7e04d30c99f9ba6452db9f72ec27a",
+        "size_in_bytes": 3747
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/node.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "39a47c2f9be60a1967fcd5132efd13d9f47a9e015bdfa43a6f1a581e31d4799e",
+        "sha256_in_prefix": "39a47c2f9be60a1967fcd5132efd13d9f47a9e015bdfa43a6f1a581e31d4799e",
+        "size_in_bytes": 3849
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/perl.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4503a151e603be3deaa665ca799319193eb7ddbfbb25499f4465ce95e07270e1",
+        "sha256_in_prefix": "4503a151e603be3deaa665ca799319193eb7ddbfbb25499f4465ce95e07270e1",
+        "size_in_bytes": 2307
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/pygrep.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "06ed349e47816e3af2a246d5272f0c7fe43848b7d725b43ed77fe126081d9d2e",
+        "sha256_in_prefix": "06ed349e47816e3af2a246d5272f0c7fe43848b7d725b43ed77fe126081d9d2e",
+        "size_in_bytes": 3673
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/python.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e3a48d21b87a79c52e1ac0d8c3b82790b973417c543b11edc00bfa72e62c2b68",
+        "sha256_in_prefix": "e3a48d21b87a79c52e1ac0d8c3b82790b973417c543b11edc00bfa72e62c2b68",
+        "size_in_bytes": 5842
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/r.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "16039b160aabce4f09886fd3a7fa60865a82aa282dc0ddb2766bab9d671e6eb2",
+        "sha256_in_prefix": "16039b160aabce4f09886fd3a7fa60865a82aa282dc0ddb2766bab9d671e6eb2",
+        "size_in_bytes": 4485
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/ruby.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "426b7191203e06ebe75999192b8977e457903ec40c6b136c12ccd649c4b5277f",
+        "sha256_in_prefix": "426b7191203e06ebe75999192b8977e457903ec40c6b136c12ccd649c4b5277f",
+        "size_in_bytes": 4064
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/rust.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "3b5156163a15a58d11618148c8f57435ccbe0dedeb88d3413c27fc200a270fae",
+        "sha256_in_prefix": "3b5156163a15a58d11618148c8f57435ccbe0dedeb88d3413c27fc200a270fae",
+        "size_in_bytes": 3034
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/script.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "89c90d18bc02cbfd88e9574d5fbdd92e055e732de4eaa52635b8d69ef35d33d0",
+        "sha256_in_prefix": "89c90d18bc02cbfd88e9574d5fbdd92e055e732de4eaa52635b8d69ef35d33d0",
+        "size_in_bytes": 764
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/swift.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "364911e8139a7bef67d6dc7caf904def1aab078f15077c4914721856d4a7d317",
+        "sha256_in_prefix": "364911e8139a7bef67d6dc7caf904def1aab078f15077c4914721856d4a7d317",
+        "size_in_bytes": 2192
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/__pycache__/system.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "dbf0d52aa55b468e62487d98b64ee2660be122f2cdda3aac174920d9937587ef",
+        "sha256_in_prefix": "dbf0d52aa55b468e62487d98b64ee2660be122f2cdda3aac174920d9937587ef",
+        "size_in_bytes": 699
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/all.py",
+        "path_type": "hardlink",
+        "sha256": "50b453d2741cf08454f2996089478d856087d600477816a810901981a1985406",
+        "sha256_in_prefix": "50b453d2741cf08454f2996089478d856087d600477816a810901981a1985406",
+        "size_in_bytes": 6054
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/conda.py",
+        "path_type": "hardlink",
+        "sha256": "f1678cde8ffefdeb93881a9e307658813dad63752b7e3c991856c1b905fae331",
+        "sha256_in_prefix": "f1678cde8ffefdeb93881a9e307658813dad63752b7e3c991856c1b905fae331",
+        "size_in_bytes": 2838
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/coursier.py",
+        "path_type": "hardlink",
+        "sha256": "7e98a5aef45a828981034ce379c1fd31f6493095fe1d1d2348f5120b3f195598",
+        "sha256_in_prefix": "7e98a5aef45a828981034ce379c1fd31f6493095fe1d1d2348f5120b3f195598",
+        "size_in_bytes": 2146
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/dart.py",
+        "path_type": "hardlink",
+        "sha256": "699d698427231c6bd6f826afe5855a1fa1074c939fa607f9317eeb7dca1f044c",
+        "sha256_in_prefix": "699d698427231c6bd6f826afe5855a1fa1074c939fa607f9317eeb7dca1f044c",
+        "size_in_bytes": 3565
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/docker.py",
+        "path_type": "hardlink",
+        "sha256": "11f5ff3b9886558641a9859c4cafac54a60ff83cd4ccec37ea74d50f66249d94",
+        "sha256_in_prefix": "11f5ff3b9886558641a9859c4cafac54a60ff83cd4ccec37ea74d50f66249d94",
+        "size_in_bytes": 4552
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/docker_image.py",
+        "path_type": "hardlink",
+        "sha256": "35c5af6e3374d8826268bb8310b4509809ff6544bc0ac5031719dd8b2e74ffb1",
+        "sha256_in_prefix": "35c5af6e3374d8826268bb8310b4509809ff6544bc0ac5031719dd8b2e74ffb1",
+        "size_in_bytes": 571
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/dotnet.py",
+        "path_type": "hardlink",
+        "sha256": "48ff3ea7e9cda10647df8ef55331e19770e41c99d0e1c28627a60f5387fa5e44",
+        "sha256_in_prefix": "48ff3ea7e9cda10647df8ef55331e19770e41c99d0e1c28627a60f5387fa5e44",
+        "size_in_bytes": 2690
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/fail.py",
+        "path_type": "hardlink",
+        "sha256": "f43b73ad918df08ed8a7efc243c1beb781dd8f1f821bf1c0c96e2a983fef83e2",
+        "sha256_in_prefix": "f43b73ad918df08ed8a7efc243c1beb781dd8f1f821bf1c0c96e2a983fef83e2",
+        "size_in_bytes": 514
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/golang.py",
+        "path_type": "hardlink",
+        "sha256": "870e9ebef1cce680cc1ab91e9356c5d44360437302bbb9a3932e08bdb1aa0e02",
+        "sha256_in_prefix": "870e9ebef1cce680cc1ab91e9356c5d44360437302bbb9a3932e08bdb1aa0e02",
+        "size_in_bytes": 3152
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/helpers.py",
+        "path_type": "hardlink",
+        "sha256": "20f81b1273a700a278269ef05f5e604fc63c28b6bdb732c0b771c2e299350c75",
+        "sha256_in_prefix": "20f81b1273a700a278269ef05f5e604fc63c28b6bdb732c0b771c2e299350c75",
+        "size_in_bytes": 3635
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/node.py",
+        "path_type": "hardlink",
+        "sha256": "f8aec0e55c5892223b1ce44df96851a5f6c7a42adbfc9ef4e1c389fc3b24fe40",
+        "sha256_in_prefix": "f8aec0e55c5892223b1ce44df96851a5f6c7a42adbfc9ef4e1c389fc3b24fe40",
+        "size_in_bytes": 4310
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/perl.py",
+        "path_type": "hardlink",
+        "sha256": "dd7063fef7763f04667c59ba1f46b323e2db49346c1b0d1e6c3b1f5261bfcf7d",
+        "sha256_in_prefix": "dd7063fef7763f04667c59ba1f46b323e2db49346c1b0d1e6c3b1f5261bfcf7d",
+        "size_in_bytes": 1964
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/pygrep.py",
+        "path_type": "hardlink",
+        "sha256": "81c8b150ebbc59e84918b1e44f06175b88a08a334de410a01b7b4178ed5f7bf1",
+        "sha256_in_prefix": "81c8b150ebbc59e84918b1e44f06175b88a08a334de410a01b7b4178ed5f7bf1",
+        "size_in_bytes": 3684
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/python.py",
+        "path_type": "hardlink",
+        "sha256": "e73b070a6f225ed70dd67eab26b3d3ac14290f03b1773b72d7021a28afc9e244",
+        "sha256_in_prefix": "e73b070a6f225ed70dd67eab26b3d3ac14290f03b1773b72d7021a28afc9e244",
+        "size_in_bytes": 6574
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/r.py",
+        "path_type": "hardlink",
+        "sha256": "eeff3bb1a95bf276fdf370624ca8567d3568acef4188de51d17a7658a47a1da1",
+        "sha256_in_prefix": "eeff3bb1a95bf276fdf370624ca8567d3568acef4188de51d17a7658a47a1da1",
+        "size_in_bytes": 4309
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/ruby.py",
+        "path_type": "hardlink",
+        "sha256": "ab4979ac15f7e2507404e880a255637ad442d9513ca2032ead093196565f4c21",
+        "sha256_in_prefix": "ab4979ac15f7e2507404e880a255637ad442d9513ca2032ead093196565f4c21",
+        "size_in_bytes": 4853
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/rust.py",
+        "path_type": "hardlink",
+        "sha256": "ea0cf04d961b27ac668b05d413d6eb34904873d2b751418dfc56c8c6fe87144e",
+        "sha256_in_prefix": "ea0cf04d961b27ac668b05d413d6eb34904873d2b751418dfc56c8c6fe87144e",
+        "size_in_bytes": 3324
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/script.py",
+        "path_type": "hardlink",
+        "sha256": "e61fe948cbaa6ddaeb09ed778b2bb0950ca21754b8b8d42059d506b16354ab90",
+        "sha256_in_prefix": "e61fe948cbaa6ddaeb09ed778b2bb0950ca21754b8b8d42059d506b16354ab90",
+        "size_in_bytes": 517
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/swift.py",
+        "path_type": "hardlink",
+        "sha256": "4ebef8b9aad8d87f099d56a8ed227e2f5012b3a23b9bc746f9307e2ec938362d",
+        "sha256_in_prefix": "4ebef8b9aad8d87f099d56a8ed227e2f5012b3a23b9bc746f9307e2ec938362d",
+        "size_in_bytes": 1995
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/languages/system.py",
+        "path_type": "hardlink",
+        "sha256": "f24ad60354a0c9e7f0796c73ac553c26c65c29dbced263ccdbc5dff1d70791de",
+        "sha256_in_prefix": "f24ad60354a0c9e7f0796c73ac553c26c65c29dbced263ccdbc5dff1d70791de",
+        "size_in_bytes": 466
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/logging_handler.py",
+        "path_type": "hardlink",
+        "sha256": "bf0ab02d88dd6c85663594dfab2e4936e30e41e2cc04fe2263e41de1a0d83090",
+        "sha256_in_prefix": "bf0ab02d88dd6c85663594dfab2e4936e30e41e2cc04fe2263e41de1a0d83090",
+        "size_in_bytes": 986
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/main.py",
+        "path_type": "hardlink",
+        "sha256": "813fd53e6a5ba18f1bd9ca2b64bb5ae42a7983dc41e86f308bf4ba99b22ce1df",
+        "sha256_in_prefix": "813fd53e6a5ba18f1bd9ca2b64bb5ae42a7983dc41e86f308bf4ba99b22ce1df",
+        "size_in_bytes": 14594
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/meta_hooks/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/meta_hooks/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "05390d58992f164081572fcfcc58db3d92e4284658ccb158671f2ffc81304896",
+        "sha256_in_prefix": "05390d58992f164081572fcfcc58db3d92e4284658ccb158671f2ffc81304896",
+        "size_in_bytes": 142
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/meta_hooks/__pycache__/check_hooks_apply.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9a10cbed921538af98e3b5a662d6a42decfeb3ed5f8a353d834df99bdf1d0b32",
+        "sha256_in_prefix": "9a10cbed921538af98e3b5a662d6a42decfeb3ed5f8a353d834df99bdf1d0b32",
+        "size_in_bytes": 1439
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/meta_hooks/__pycache__/check_useless_excludes.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b4d89718eb4ac207ea2fe012e25ba229898521dbae68afc30ddc6b9d3ad2ef71",
+        "sha256_in_prefix": "b4d89718eb4ac207ea2fe012e25ba229898521dbae68afc30ddc6b9d3ad2ef71",
+        "size_in_bytes": 2042
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/meta_hooks/__pycache__/identity.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1cec07e1b599720fdf4b4d31570cdf9496be0206373eadbb18298dcf1c81b87b",
+        "sha256_in_prefix": "1cec07e1b599720fdf4b4d31570cdf9496be0206373eadbb18298dcf1c81b87b",
+        "size_in_bytes": 555
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/meta_hooks/check_hooks_apply.py",
+        "path_type": "hardlink",
+        "sha256": "0fe9475beec43ec4f267cd99ad0c2b57c57abc50ecf8f928390141d0ca02b141",
+        "sha256_in_prefix": "0fe9475beec43ec4f267cd99ad0c2b57c57abc50ecf8f928390141d0ca02b141",
+        "size_in_bytes": 1176
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/meta_hooks/check_useless_excludes.py",
+        "path_type": "hardlink",
+        "sha256": "7b94a38c1fef5169b9597d67cdda75bb4894a88feccbf446c7f3b754e7e83899",
+        "sha256_in_prefix": "7b94a38c1fef5169b9597d67cdda75bb4894a88feccbf446c7f3b754e7e83899",
+        "size_in_bytes": 2537
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/meta_hooks/identity.py",
+        "path_type": "hardlink",
+        "sha256": "44c26dd66f6d4b0f187432815bbe39efd838efe4d50bdaa7d7eedf568f1423d5",
+        "sha256_in_prefix": "44c26dd66f6d4b0f187432815bbe39efd838efe4d50bdaa7d7eedf568f1423d5",
+        "size_in_bytes": 320
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/output.py",
+        "path_type": "hardlink",
+        "sha256": "50a9e33b95bb3f2e2b6b9157647c03cb0ebf05abf438c8f8bf935d8c6bcc2f0d",
+        "sha256_in_prefix": "50a9e33b95bb3f2e2b6b9157647c03cb0ebf05abf438c8f8bf935d8c6bcc2f0d",
+        "size_in_bytes": 912
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/parse_shebang.py",
+        "path_type": "hardlink",
+        "sha256": "bd74a1b092ce310c820bfa5fb0854e6b2f68c2dbad71cbb9d2dc5276e4c1ca25",
+        "sha256_in_prefix": "bd74a1b092ce310c820bfa5fb0854e6b2f68c2dbad71cbb9d2dc5276e4c1ca25",
+        "size_in_bytes": 2429
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/prefix.py",
+        "path_type": "hardlink",
+        "sha256": "7ac0ea4349dd15b9c9a716634edcd6d8ec3117983716fc1488d6537fe156e6ca",
+        "sha256_in_prefix": "7ac0ea4349dd15b9c9a716634edcd6d8ec3117983716fc1488d6537fe156e6ca",
+        "size_in_bytes": 484
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/repository.py",
+        "path_type": "hardlink",
+        "sha256": "5e99dd4b87b9878c28cc19535ea699506999854ccc5373abab2c81b7ca32cb35",
+        "sha256_in_prefix": "5e99dd4b87b9878c28cc19535ea699506999854ccc5373abab2c81b7ca32cb35",
+        "size_in_bytes": 7700
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "46b3fd7f7ef8db0b7457f8a1f456e93a0d422e8333573a7f712b41ef2161aad9",
+        "sha256_in_prefix": "46b3fd7f7ef8db0b7457f8a1f456e93a0d422e8333573a7f712b41ef2161aad9",
+        "size_in_bytes": 141
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/__pycache__/empty_template_setup.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0fcf113aa150b7285c577b237c77727945ceee45518cccb45a6f8a89e41edfc4",
+        "sha256_in_prefix": "0fcf113aa150b7285c577b237c77727945ceee45518cccb45a6f8a89e41edfc4",
+        "size_in_bytes": 263
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/empty_template_.npmignore",
+        "path_type": "hardlink",
+        "sha256": "cdbcae15105d6b781e620813c79c7e868740d4e9cc53ce6f5fcbbc12387adf4b",
+        "sha256_in_prefix": "cdbcae15105d6b781e620813c79c7e868740d4e9cc53ce6f5fcbbc12387adf4b",
+        "size_in_bytes": 2
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/empty_template_Cargo.toml",
+        "path_type": "hardlink",
+        "sha256": "ae37250aeb29cbf0e81aba392bf631f9c8ca3bcf2bbd0539aa491b0182226ad8",
+        "sha256_in_prefix": "ae37250aeb29cbf0e81aba392bf631f9c8ca3bcf2bbd0539aa491b0182226ad8",
+        "size_in_bytes": 96
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/empty_template_LICENSE.renv",
+        "path_type": "hardlink",
+        "sha256": "bc9894e2ca4149026482ba3a0f33e9a13785bd860631d90a121650421e78b1c1",
+        "sha256_in_prefix": "bc9894e2ca4149026482ba3a0f33e9a13785bd860631d90a121650421e78b1c1",
+        "size_in_bytes": 1052
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/empty_template_Makefile.PL",
+        "path_type": "hardlink",
+        "sha256": "a0d6632694b505adfc5c9e1599002b7fb65f69215b0f8bc314d67c111a00cb60",
+        "sha256_in_prefix": "a0d6632694b505adfc5c9e1599002b7fb65f69215b0f8bc314d67c111a00cb60",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/empty_template_activate.R",
+        "path_type": "hardlink",
+        "sha256": "c9d3901a016c711c8c5386c8aa6d53cc640df03c5f81cefd78e5ee8cfeee5631",
+        "sha256_in_prefix": "c9d3901a016c711c8c5386c8aa6d53cc640df03c5f81cefd78e5ee8cfeee5631",
+        "size_in_bytes": 12037
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/empty_template_environment.yml",
+        "path_type": "hardlink",
+        "sha256": "481b3b00ddccd7d23a117fe5ac80e115abe001a051b9b6b347a8a6cd36e10422",
+        "sha256_in_prefix": "481b3b00ddccd7d23a117fe5ac80e115abe001a051b9b6b347a8a6cd36e10422",
+        "size_in_bytes": 302
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/empty_template_go.mod",
+        "path_type": "hardlink",
+        "sha256": "df9bf9e1f6dc07c1ecf5338f8bab87362bbd193b6e62ce0cde87d65e9746de3f",
+        "sha256_in_prefix": "df9bf9e1f6dc07c1ecf5338f8bab87362bbd193b6e62ce0cde87d65e9746de3f",
+        "size_in_bytes": 43
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/empty_template_main.go",
+        "path_type": "hardlink",
+        "sha256": "55a60bb97151b2b4b680462447ce60ec34511b14fa10d77440c97b9777101566",
+        "sha256_in_prefix": "55a60bb97151b2b4b680462447ce60ec34511b14fa10d77440c97b9777101566",
+        "size_in_bytes": 29
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/empty_template_main.rs",
+        "path_type": "hardlink",
+        "sha256": "536e506bb90914c243a12b397b9a998f85ae2cbd9ba02dfd03a9e155ca5ca0f4",
+        "sha256_in_prefix": "536e506bb90914c243a12b397b9a998f85ae2cbd9ba02dfd03a9e155ca5ca0f4",
+        "size_in_bytes": 13
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/empty_template_package.json",
+        "path_type": "hardlink",
+        "sha256": "881378dc65149f4e4360a03bbe939c754dbb1fe9d3b2be9a54508956ae06dfe1",
+        "sha256_in_prefix": "881378dc65149f4e4360a03bbe939c754dbb1fe9d3b2be9a54508956ae06dfe1",
+        "size_in_bytes": 73
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/empty_template_pre_commit_placeholder_package.gemspec",
+        "path_type": "hardlink",
+        "sha256": "502586aedcd2abf6d44ef0e026e57de193d0e8a1eb19b172c16ca9a5b47c6484",
+        "sha256_in_prefix": "502586aedcd2abf6d44ef0e026e57de193d0e8a1eb19b172c16ca9a5b47c6484",
+        "size_in_bytes": 195
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/empty_template_pubspec.yaml",
+        "path_type": "hardlink",
+        "sha256": "7129ff8d25da60be4bd8df54b596e552e9ab6bea5e8624ee27e9702701b13d05",
+        "sha256_in_prefix": "7129ff8d25da60be4bd8df54b596e552e9ab6bea5e8624ee27e9702701b13d05",
+        "size_in_bytes": 78
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/empty_template_renv.lock",
+        "path_type": "hardlink",
+        "sha256": "39ae9e49a26ce25667f00e2aa353a412f0c2d07fe0fb656b9b316e01398c86e3",
+        "sha256_in_prefix": "39ae9e49a26ce25667f00e2aa353a412f0c2d07fe0fb656b9b316e01398c86e3",
+        "size_in_bytes": 351
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/empty_template_setup.py",
+        "path_type": "hardlink",
+        "sha256": "c8070cc5d61fc582ce123ea1d7170f0b43075fe2f34ecec4abbfac8cbe7d696a",
+        "sha256_in_prefix": "c8070cc5d61fc582ce123ea1d7170f0b43075fe2f34ecec4abbfac8cbe7d696a",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/hook-tmpl",
+        "path_type": "hardlink",
+        "sha256": "976081a43ec32a7d48121df1439fe1647a43fb650838f0447f1da52d863a2e00",
+        "sha256_in_prefix": "976081a43ec32a7d48121df1439fe1647a43fb650838f0447f1da52d863a2e00",
+        "size_in_bytes": 1368
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/rbenv.tar.gz",
+        "path_type": "hardlink",
+        "sha256": "b6877f78b6831556eefbd3ecc359656904706784b84d26afd3741225fab3259f",
+        "sha256_in_prefix": "b6877f78b6831556eefbd3ecc359656904706784b84d26afd3741225fab3259f",
+        "size_in_bytes": 32678
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/ruby-build.tar.gz",
+        "path_type": "hardlink",
+        "sha256": "6ff2c52fcf396a5eef165f3b01bacd2ad29eadc225a090efcac3a29599a55794",
+        "sha256_in_prefix": "6ff2c52fcf396a5eef165f3b01bacd2ad29eadc225a090efcac3a29599a55794",
+        "size_in_bytes": 68689
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/resources/ruby-download.tar.gz",
+        "path_type": "hardlink",
+        "sha256": "9f4e7c6fe59e898b4278053e23a4cc9506e2a08f4fc3afeab06dca6c3c650938",
+        "sha256_in_prefix": "9f4e7c6fe59e898b4278053e23a4cc9506e2a08f4fc3afeab06dca6c3c650938",
+        "size_in_bytes": 5271
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/staged_files_only.py",
+        "path_type": "hardlink",
+        "sha256": "262eff59f4e783c5ec0eff574abc08501c696c38c99e1e0d1fa7612c2aa8f284",
+        "sha256_in_prefix": "262eff59f4e783c5ec0eff574abc08501c696c38c99e1e0d1fa7612c2aa8f284",
+        "size_in_bytes": 3225
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/store.py",
+        "path_type": "hardlink",
+        "sha256": "225419aeea3f923f43ac920552f91ba84eb722eac6fd04a32cee9ce49288c950",
+        "sha256_in_prefix": "225419aeea3f923f43ac920552f91ba84eb722eac6fd04a32cee9ce49288c950",
+        "size_in_bytes": 9731
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/util.py",
+        "path_type": "hardlink",
+        "sha256": "e740ba7e38d49a69a580e620d45c5c2f6c46001be7fc8504f403356fe0af85ed",
+        "sha256_in_prefix": "e740ba7e38d49a69a580e620d45c5c2f6c46001be7fc8504f403356fe0af85ed",
+        "size_in_bytes": 8176
+      },
+      {
+        "_path": "Lib/site-packages/pre_commit/xargs.py",
+        "path_type": "hardlink",
+        "sha256": "8723568d1d64fc4ef2765bb6d6a6a43f65cee17a85466b435b58ea86a3f44215",
+        "sha256_in_prefix": "8723568d1d64fc4ef2765bb6d6a6a43f65cee17a85466b435b58ea86a3f44215",
+        "size_in_bytes": 5109
+      },
+      {
+        "_path": "Scripts/pre-commit-script.py",
+        "path_type": "hardlink",
+        "sha256": "a161ac1bc81c305362591ca1bf83875ef14d528220efedb71c7b06e9b32ab07c",
+        "sha256_in_prefix": "a161ac1bc81c305362591ca1bf83875ef14d528220efedb71c7b06e9b32ab07c",
+        "size_in_bytes": 209
+      },
+      {
+        "_path": "Scripts/pre-commit-validate-config-script.py",
+        "path_type": "hardlink",
+        "sha256": "14f34db1b8825c0f5171e276439cb5a8000ce3d876661bf59f719cff193e3639",
+        "sha256_in_prefix": "14f34db1b8825c0f5171e276439cb5a8000ce3d876661bf59f719cff193e3639",
+        "size_in_bytes": 246
+      },
+      {
+        "_path": "Scripts/pre-commit-validate-config.exe",
+        "path_type": "hardlink",
+        "sha256": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "sha256_in_prefix": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "size_in_bytes": 41984
+      },
+      {
+        "_path": "Scripts/pre-commit-validate-manifest-script.py",
+        "path_type": "hardlink",
+        "sha256": "eeefbad80362db4df24fae7134982c5cfc60a1fe963d30c8608dcc165846d9c0",
+        "sha256_in_prefix": "eeefbad80362db4df24fae7134982c5cfc60a1fe963d30c8608dcc165846d9c0",
+        "size_in_bytes": 250
+      },
+      {
+        "_path": "Scripts/pre-commit-validate-manifest.exe",
+        "path_type": "hardlink",
+        "sha256": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "sha256_in_prefix": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "size_in_bytes": 41984
+      },
+      {
+        "_path": "Scripts/pre-commit.exe",
+        "path_type": "hardlink",
+        "sha256": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "sha256_in_prefix": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "size_in_bytes": 41984
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "pre-commit",
+  "sha256": "177588354c404108779e5606de2e49beddbf798a6f1b0ce414c0000e89c5aa07",
+  "size": 259358,
+  "subdir": "win-64",
+  "timestamp": 1630672222557,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/pre-commit-2.15.0-py39hcbf5309_0.tar.bz2",
+  "version": "2.15.0"
+}

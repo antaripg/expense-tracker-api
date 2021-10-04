@@ -1,0 +1,401 @@
+{
+  "build": "py39hb82d6ee_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012",
+    "yaml >=0.2.5,<0.3.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\hp\\anaconda3\\pkgs\\pyyaml-5.4.1-py39hb82d6ee_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/PyYAML-5.4.1-py3.9-win-amd64.egg-info/PKG-INFO",
+    "Lib/site-packages/PyYAML-5.4.1-py3.9-win-amd64.egg-info/SOURCES.txt",
+    "Lib/site-packages/PyYAML-5.4.1-py3.9-win-amd64.egg-info/dependency_links.txt",
+    "Lib/site-packages/PyYAML-5.4.1-py3.9-win-amd64.egg-info/native_libs.txt",
+    "Lib/site-packages/PyYAML-5.4.1-py3.9-win-amd64.egg-info/not-zip-safe",
+    "Lib/site-packages/PyYAML-5.4.1-py3.9-win-amd64.egg-info/top_level.txt",
+    "Lib/site-packages/_yaml/__init__.py",
+    "Lib/site-packages/_yaml/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/yaml/__init__.py",
+    "Lib/site-packages/yaml/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/yaml/__pycache__/_yaml.cpython-39.pyc",
+    "Lib/site-packages/yaml/__pycache__/composer.cpython-39.pyc",
+    "Lib/site-packages/yaml/__pycache__/constructor.cpython-39.pyc",
+    "Lib/site-packages/yaml/__pycache__/cyaml.cpython-39.pyc",
+    "Lib/site-packages/yaml/__pycache__/dumper.cpython-39.pyc",
+    "Lib/site-packages/yaml/__pycache__/emitter.cpython-39.pyc",
+    "Lib/site-packages/yaml/__pycache__/error.cpython-39.pyc",
+    "Lib/site-packages/yaml/__pycache__/events.cpython-39.pyc",
+    "Lib/site-packages/yaml/__pycache__/loader.cpython-39.pyc",
+    "Lib/site-packages/yaml/__pycache__/nodes.cpython-39.pyc",
+    "Lib/site-packages/yaml/__pycache__/parser.cpython-39.pyc",
+    "Lib/site-packages/yaml/__pycache__/reader.cpython-39.pyc",
+    "Lib/site-packages/yaml/__pycache__/representer.cpython-39.pyc",
+    "Lib/site-packages/yaml/__pycache__/resolver.cpython-39.pyc",
+    "Lib/site-packages/yaml/__pycache__/scanner.cpython-39.pyc",
+    "Lib/site-packages/yaml/__pycache__/serializer.cpython-39.pyc",
+    "Lib/site-packages/yaml/__pycache__/tokens.cpython-39.pyc",
+    "Lib/site-packages/yaml/_yaml.cp39-win_amd64.pyd",
+    "Lib/site-packages/yaml/_yaml.py",
+    "Lib/site-packages/yaml/composer.py",
+    "Lib/site-packages/yaml/constructor.py",
+    "Lib/site-packages/yaml/cyaml.py",
+    "Lib/site-packages/yaml/dumper.py",
+    "Lib/site-packages/yaml/emitter.py",
+    "Lib/site-packages/yaml/error.py",
+    "Lib/site-packages/yaml/events.py",
+    "Lib/site-packages/yaml/loader.py",
+    "Lib/site-packages/yaml/nodes.py",
+    "Lib/site-packages/yaml/parser.py",
+    "Lib/site-packages/yaml/reader.py",
+    "Lib/site-packages/yaml/representer.py",
+    "Lib/site-packages/yaml/resolver.py",
+    "Lib/site-packages/yaml/scanner.py",
+    "Lib/site-packages/yaml/serializer.py",
+    "Lib/site-packages/yaml/tokens.py",
+    ".nonadmin"
+  ],
+  "fn": "pyyaml-5.4.1-py39hb82d6ee_1.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\hp\\anaconda3\\pkgs\\pyyaml-5.4.1-py39hb82d6ee_1",
+    "type": 1
+  },
+  "md5": "5e85ee7bc18969e50dee7e6b7acce30a",
+  "name": "pyyaml",
+  "package_tarball_full_path": "C:\\Users\\hp\\anaconda3\\pkgs\\pyyaml-5.4.1-py39hb82d6ee_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/PyYAML-5.4.1-py3.9-win-amd64.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "9d3637087fe322b95d82e7147af4baae87f60a9f268ad592b15180fff5961f80",
+        "sha256_in_prefix": "9d3637087fe322b95d82e7147af4baae87f60a9f268ad592b15180fff5961f80",
+        "size_in_bytes": 2156
+      },
+      {
+        "_path": "Lib/site-packages/PyYAML-5.4.1-py3.9-win-amd64.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "da02599ec9ef5d2e33b7f93997a29f7bc0393e0d9bdd0a6c84dab2e7c67e69d1",
+        "sha256_in_prefix": "da02599ec9ef5d2e33b7f93997a29f7bc0393e0d9bdd0a6c84dab2e7c67e69d1",
+        "size_in_bytes": 22195
+      },
+      {
+        "_path": "Lib/site-packages/PyYAML-5.4.1-py3.9-win-amd64.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/PyYAML-5.4.1-py3.9-win-amd64.egg-info/native_libs.txt",
+        "path_type": "hardlink",
+        "sha256": "a330f9e6cf2c610b1427da316f912a67339e824b7c559e00e8959152f13858ae",
+        "sha256_in_prefix": "a330f9e6cf2c610b1427da316f912a67339e824b7c559e00e8959152f13858ae",
+        "size_in_bytes": 31
+      },
+      {
+        "_path": "Lib/site-packages/PyYAML-5.4.1-py3.9-win-amd64.egg-info/not-zip-safe",
+        "path_type": "hardlink",
+        "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+        "sha256_in_prefix": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+        "size_in_bytes": 2
+      },
+      {
+        "_path": "Lib/site-packages/PyYAML-5.4.1-py3.9-win-amd64.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "ae98f42153138ac02387fd6f1b709c7fdbf98e9090c00cfa703d48554e597614",
+        "sha256_in_prefix": "ae98f42153138ac02387fd6f1b709c7fdbf98e9090c00cfa703d48554e597614",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "Lib/site-packages/_yaml/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d3801eff9a2cc5a8692476b75c165401fe308ba5d7df6811f03e97ea9eb81840",
+        "sha256_in_prefix": "d3801eff9a2cc5a8692476b75c165401fe308ba5d7df6811f03e97ea9eb81840",
+        "size_in_bytes": 1402
+      },
+      {
+        "_path": "Lib/site-packages/_yaml/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7c44b1fe1d5001720983e9906b866561e12bbf80ca568d8dbcf720ac8763e3bd",
+        "sha256_in_prefix": "7c44b1fe1d5001720983e9906b866561e12bbf80ca568d8dbcf720ac8763e3bd",
+        "size_in_bytes": 723
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "81fa7609b4558739278219228890f697a674a48fa6bff8991cf489e1a8f4fa76",
+        "sha256_in_prefix": "81fa7609b4558739278219228890f697a674a48fa6bff8991cf489e1a8f4fa76",
+        "size_in_bytes": 13170
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "045a6a4829697db2dc3c9402b3ab7496f91bb58ad2333aa023683265637b5945",
+        "sha256_in_prefix": "045a6a4829697db2dc3c9402b3ab7496f91bb58ad2333aa023683265637b5945",
+        "size_in_bytes": 11881
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/_yaml.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "2ba6012df9d71f0718639e8fa7d07500117514c47ab0e9c25e9bd538872cdfe3",
+        "sha256_in_prefix": "2ba6012df9d71f0718639e8fa7d07500117514c47ab0e9c25e9bd538872cdfe3",
+        "size_in_bytes": 577
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/composer.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f089fbff647c8e5a48201398900dd2788b89741be5c7fce8d4da554ca2b3f1e2",
+        "sha256_in_prefix": "f089fbff647c8e5a48201398900dd2788b89741be5c7fce8d4da554ca2b3f1e2",
+        "size_in_bytes": 3575
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/constructor.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "156def98b412ce00230e9b1e03d52fd88398e5eff0f8ff0e7c29934cb8591e80",
+        "sha256_in_prefix": "156def98b412ce00230e9b1e03d52fd88398e5eff0f8ff0e7c29934cb8591e80",
+        "size_in_bytes": 20822
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/cyaml.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f298361c24a2fd9f508e31b4dbae4e7d1d76122ebdda748bbb5e5ed3403da759",
+        "sha256_in_prefix": "f298361c24a2fd9f508e31b4dbae4e7d1d76122ebdda748bbb5e5ed3403da759",
+        "size_in_bytes": 3365
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/dumper.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "c134322d9f3c90b1f541a94576cedaba4c8e7d2e69cc8fe89b0db33725869dc2",
+        "sha256_in_prefix": "c134322d9f3c90b1f541a94576cedaba4c8e7d2e69cc8fe89b0db33725869dc2",
+        "size_in_bytes": 1784
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/emitter.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a6be49b4040d70ca339bdc4239d25ecaaf33092639113490558adee51948342e",
+        "sha256_in_prefix": "a6be49b4040d70ca339bdc4239d25ecaaf33092639113490558adee51948342e",
+        "size_in_bytes": 25355
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/error.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f89a14b5127dd73bb8d35c0ce2a5203c5558f78b5c5b9459b7e10b5cd7a3ab6a",
+        "sha256_in_prefix": "f89a14b5127dd73bb8d35c0ce2a5203c5558f78b5c5b9459b7e10b5cd7a3ab6a",
+        "size_in_bytes": 2335
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/events.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "795fc13270d5769c7678d99cc5dd08cce1c790818e1db3b4bb81a9106f8bd103",
+        "sha256_in_prefix": "795fc13270d5769c7678d99cc5dd08cce1c790818e1db3b4bb81a9106f8bd103",
+        "size_in_bytes": 3988
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/loader.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "c1f85a5907b55ef9c82b9f11ab8048140b99f3a24ba094edfa072c5868088c50",
+        "sha256_in_prefix": "c1f85a5907b55ef9c82b9f11ab8048140b99f3a24ba094edfa072c5868088c50",
+        "size_in_bytes": 2209
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/nodes.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "5ed0e8a4ad950e6ab1d0682b51f5619cc6ce97090da65822a13aac677a4469fe",
+        "sha256_in_prefix": "5ed0e8a4ad950e6ab1d0682b51f5619cc6ce97090da65822a13aac677a4469fe",
+        "size_in_bytes": 1741
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/parser.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "379feabce91a89cd199d51ddb79231eb6856c5b93f0ae4b131a4434766a89710",
+        "sha256_in_prefix": "379feabce91a89cd199d51ddb79231eb6856c5b93f0ae4b131a4434766a89710",
+        "size_in_bytes": 11880
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/reader.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "eedabd65dc4c67409092971dad826bad052abd3cc9f49a985cfc2ea6c5de80eb",
+        "sha256_in_prefix": "eedabd65dc4c67409092971dad826bad052abd3cc9f49a985cfc2ea6c5de80eb",
+        "size_in_bytes": 4547
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/representer.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "26846f6eb4d6e193e2076bf1d5c86a39a340f3262dda43d97bf5ef2667ccf569",
+        "sha256_in_prefix": "26846f6eb4d6e193e2076bf1d5c86a39a340f3262dda43d97bf5ef2667ccf569",
+        "size_in_bytes": 10097
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/resolver.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "06a5701dde341b967f005c6ba5d7672f358dc01ed8ea754dd037d53677ea0fe5",
+        "sha256_in_prefix": "06a5701dde341b967f005c6ba5d7672f358dc01ed8ea754dd037d53677ea0fe5",
+        "size_in_bytes": 5518
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/scanner.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a1e635c0fda213fc02eb702193248c69a65d46cdee85922e18e5674348c32351",
+        "sha256_in_prefix": "a1e635c0fda213fc02eb702193248c69a65d46cdee85922e18e5674348c32351",
+        "size_in_bytes": 25265
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/serializer.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9e3d1f3b7fe6315a4bd9b52403acac445b4528f3f1b0194a012f1d4310a4ccd8",
+        "sha256_in_prefix": "9e3d1f3b7fe6315a4bd9b52403acac445b4528f3f1b0194a012f1d4310a4ccd8",
+        "size_in_bytes": 3336
+      },
+      {
+        "_path": "Lib/site-packages/yaml/__pycache__/tokens.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e83f96513323952e9df7c3890099106707cb8f51618cb386c7645412a1c83960",
+        "sha256_in_prefix": "e83f96513323952e9df7c3890099106707cb8f51618cb386c7645412a1c83960",
+        "size_in_bytes": 4957
+      },
+      {
+        "_path": "Lib/site-packages/yaml/_yaml.cp39-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "c5925bf4af76ada8b0c4a811c0af9ead26ab26d64b940a08a3580c736b8a44fb",
+        "sha256_in_prefix": "c5925bf4af76ada8b0c4a811c0af9ead26ab26d64b940a08a3580c736b8a44fb",
+        "size_in_bytes": 183296
+      },
+      {
+        "_path": "Lib/site-packages/yaml/_yaml.py",
+        "path_type": "hardlink",
+        "sha256": "0c2d5b40c54c0eaa897fb777e7f7865bbb96536e6e745273b61f2cc9a8bdc80a",
+        "sha256_in_prefix": "0c2d5b40c54c0eaa897fb777e7f7865bbb96536e6e745273b61f2cc9a8bdc80a",
+        "size_in_bytes": 427
+      },
+      {
+        "_path": "Lib/site-packages/yaml/composer.py",
+        "path_type": "hardlink",
+        "sha256": "fcaa37d16afa783594794a5ab94193dcb720f503c19ce3d59539c8311189f453",
+        "sha256_in_prefix": "fcaa37d16afa783594794a5ab94193dcb720f503c19ce3d59539c8311189f453",
+        "size_in_bytes": 4883
+      },
+      {
+        "_path": "Lib/site-packages/yaml/constructor.py",
+        "path_type": "hardlink",
+        "sha256": "90d8247da78b524c10618fd0e857f54f3d97570fe91b5c5513d024ef3faf88b0",
+        "sha256_in_prefix": "90d8247da78b524c10618fd0e857f54f3d97570fe91b5c5513d024ef3faf88b0",
+        "size_in_bytes": 28639
+      },
+      {
+        "_path": "Lib/site-packages/yaml/cyaml.py",
+        "path_type": "hardlink",
+        "sha256": "e99ac01bd7c062f7557b614aff0d21997a06ed962ca185306a91bc0a20bbd87d",
+        "sha256_in_prefix": "e99ac01bd7c062f7557b614aff0d21997a06ed962ca185306a91bc0a20bbd87d",
+        "size_in_bytes": 3851
+      },
+      {
+        "_path": "Lib/site-packages/yaml/dumper.py",
+        "path_type": "hardlink",
+        "sha256": "3cb72d66563064ba7b5e679477046ebf89d8399d940670c8532f3e94a7cb17ea",
+        "sha256_in_prefix": "3cb72d66563064ba7b5e679477046ebf89d8399d940670c8532f3e94a7cb17ea",
+        "size_in_bytes": 2837
+      },
+      {
+        "_path": "Lib/site-packages/yaml/emitter.py",
+        "path_type": "hardlink",
+        "sha256": "8e086d694ede170837d5b1b407b45979aff6f40762f422a65eafd08e04290a44",
+        "sha256_in_prefix": "8e086d694ede170837d5b1b407b45979aff6f40762f422a65eafd08e04290a44",
+        "size_in_bytes": 43006
+      },
+      {
+        "_path": "Lib/site-packages/yaml/error.py",
+        "path_type": "hardlink",
+        "sha256": "021f73fada072546c4f63f8cf18a7181244ce4280b09cc15cc980b2d1176171a",
+        "sha256_in_prefix": "021f73fada072546c4f63f8cf18a7181244ce4280b09cc15cc980b2d1176171a",
+        "size_in_bytes": 2533
+      },
+      {
+        "_path": "Lib/site-packages/yaml/events.py",
+        "path_type": "hardlink",
+        "sha256": "e74fd392c810884e2ea7e94aa3f57e9c1cbeb402319083d0c58e6a0e1282787c",
+        "sha256_in_prefix": "e74fd392c810884e2ea7e94aa3f57e9c1cbeb402319083d0c58e6a0e1282787c",
+        "size_in_bytes": 2445
+      },
+      {
+        "_path": "Lib/site-packages/yaml/loader.py",
+        "path_type": "hardlink",
+        "sha256": "5156becc8aa6905482218abf3e04869b835226db4763645fff3438fdbd5f1cdd",
+        "sha256_in_prefix": "5156becc8aa6905482218abf3e04869b835226db4763645fff3438fdbd5f1cdd",
+        "size_in_bytes": 2061
+      },
+      {
+        "_path": "Lib/site-packages/yaml/nodes.py",
+        "path_type": "hardlink",
+        "sha256": "80f28d8fca4a09d87677882bde021820d9cf39a3b11a12405226211919cf13ce",
+        "sha256_in_prefix": "80f28d8fca4a09d87677882bde021820d9cf39a3b11a12405226211919cf13ce",
+        "size_in_bytes": 1440
+      },
+      {
+        "_path": "Lib/site-packages/yaml/parser.py",
+        "path_type": "hardlink",
+        "sha256": "8a55a9e6fbe0a07146cef3990c8b45a068c3e83e369e1959ad9ca30306b4a09a",
+        "sha256_in_prefix": "8a55a9e6fbe0a07146cef3990c8b45a068c3e83e369e1959ad9ca30306b4a09a",
+        "size_in_bytes": 25495
+      },
+      {
+        "_path": "Lib/site-packages/yaml/reader.py",
+        "path_type": "hardlink",
+        "sha256": "d1d9b38ab3a20c6e17a38d519ee412ecaf6b918df18c78956ac7c330d4ea08dc",
+        "sha256_in_prefix": "d1d9b38ab3a20c6e17a38d519ee412ecaf6b918df18c78956ac7c330d4ea08dc",
+        "size_in_bytes": 6794
+      },
+      {
+        "_path": "Lib/site-packages/yaml/representer.py",
+        "path_type": "hardlink",
+        "sha256": "f3650cdd9c5440aaac28017896d58ec424ba8c63c816d5e91acee6beacafe17b",
+        "sha256_in_prefix": "f3650cdd9c5440aaac28017896d58ec424ba8c63c816d5e91acee6beacafe17b",
+        "size_in_bytes": 14184
+      },
+      {
+        "_path": "Lib/site-packages/yaml/resolver.py",
+        "path_type": "hardlink",
+        "sha256": "6755bc00e300e8fae8cb88083b63a150ee083d2fdb14d025d026b7af00a1a4f8",
+        "sha256_in_prefix": "6755bc00e300e8fae8cb88083b63a150ee083d2fdb14d025d026b7af00a1a4f8",
+        "size_in_bytes": 8999
+      },
+      {
+        "_path": "Lib/site-packages/yaml/scanner.py",
+        "path_type": "hardlink",
+        "sha256": "29e4082863654b23c4f100f08a89c7c72f4281ba84e6d789133d39151f7e9c08",
+        "sha256_in_prefix": "29e4082863654b23c4f100f08a89c7c72f4281ba84e6d789133d39151f7e9c08",
+        "size_in_bytes": 51277
+      },
+      {
+        "_path": "Lib/site-packages/yaml/serializer.py",
+        "path_type": "hardlink",
+        "sha256": "0a1b85826854d35863e31808f0668abfabdf33606e8f06bd8bb7761401e3edc0",
+        "sha256_in_prefix": "0a1b85826854d35863e31808f0668abfabdf33606e8f06bd8bb7761401e3edc0",
+        "size_in_bytes": 4165
+      },
+      {
+        "_path": "Lib/site-packages/yaml/tokens.py",
+        "path_type": "hardlink",
+        "sha256": "953408cd2570f0c83dc2fe39f7e4e388e41eeb05738aa69196a5f6ffcf6ba79e",
+        "sha256_in_prefix": "953408cd2570f0c83dc2fe39f7e4e388e41eeb05738aa69196a5f6ffcf6ba79e",
+        "size_in_bytes": 2573
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "e598e14c02d8585ee871aad561c0252755ac81e74957400dcc688375e7c544a4",
+  "size": 167096,
+  "subdir": "win-64",
+  "timestamp": 1629158214056,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/pyyaml-5.4.1-py39hb82d6ee_1.tar.bz2",
+  "version": "5.4.1"
+}

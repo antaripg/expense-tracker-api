@@ -1,0 +1,143 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python 2.7|>=3.6",
+    "setuptools"
+  ],
+  "extracted_package_dir": "C:\\Users\\hp\\anaconda3\\pkgs\\nodeenv-1.6.0-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/nodeenv-1.6.0.dist-info/AUTHORS",
+    "Lib/site-packages/nodeenv-1.6.0.dist-info/INSTALLER",
+    "Lib/site-packages/nodeenv-1.6.0.dist-info/LICENSE",
+    "Lib/site-packages/nodeenv-1.6.0.dist-info/METADATA",
+    "Lib/site-packages/nodeenv-1.6.0.dist-info/RECORD",
+    "Lib/site-packages/nodeenv-1.6.0.dist-info/REQUESTED",
+    "Lib/site-packages/nodeenv-1.6.0.dist-info/WHEEL",
+    "Lib/site-packages/nodeenv-1.6.0.dist-info/direct_url.json",
+    "Lib/site-packages/nodeenv-1.6.0.dist-info/entry_points.txt",
+    "Lib/site-packages/nodeenv-1.6.0.dist-info/top_level.txt",
+    "Lib/site-packages/nodeenv.py",
+    ".nonadmin",
+    "Lib/site-packages/__pycache__/nodeenv.cpython-39.pyc",
+    "Scripts/nodeenv-script.py",
+    "Scripts/nodeenv.exe"
+  ],
+  "fn": "nodeenv-1.6.0-pyhd8ed1ab_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\hp\\anaconda3\\pkgs\\nodeenv-1.6.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "0941325bf48969e2b3b19d0951740950",
+  "name": "nodeenv",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\hp\\anaconda3\\pkgs\\nodeenv-1.6.0-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/nodeenv-1.6.0.dist-info/AUTHORS",
+        "path_type": "hardlink",
+        "sha256": "e4f472f27ef6d9fdc5f23bb5b2daf416e0d0103886d8ab5f0e318a2148e53c86",
+        "sha256_in_prefix": "e4f472f27ef6d9fdc5f23bb5b2daf416e0d0103886d8ab5f0e318a2148e53c86",
+        "size_in_bytes": 1376
+      },
+      {
+        "_path": "site-packages/nodeenv-1.6.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/nodeenv-1.6.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "606faf42d48b54d539dae99db6fecd48544535587e27275b319a3f36113cb6fa",
+        "sha256_in_prefix": "606faf42d48b54d539dae99db6fecd48544535587e27275b319a3f36113cb6fa",
+        "size_in_bytes": 1532
+      },
+      {
+        "_path": "site-packages/nodeenv-1.6.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "aa7b06122f1cdc82c810e9c987a5f7e3ec6c52fa8d58de69359dbef96d7e042a",
+        "sha256_in_prefix": "aa7b06122f1cdc82c810e9c987a5f7e3ec6c52fa8d58de69359dbef96d7e042a",
+        "size_in_bytes": 21666
+      },
+      {
+        "_path": "site-packages/nodeenv-1.6.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "af37add8add6ab2d6f9c7a24152e7e2d615408560287aa868817c494bf13706a",
+        "sha256_in_prefix": "af37add8add6ab2d6f9c7a24152e7e2d615408560287aa868817c494bf13706a",
+        "size_in_bytes": 1033
+      },
+      {
+        "_path": "site-packages/nodeenv-1.6.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/nodeenv-1.6.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934",
+        "sha256_in_prefix": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/nodeenv-1.6.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "a564123621aab2f24611a1c16f3daf98cf5b31bb863cf68555202884bc13d1a0",
+        "sha256_in_prefix": "a564123621aab2f24611a1c16f3daf98cf5b31bb863cf68555202884bc13d1a0",
+        "size_in_bytes": 103
+      },
+      {
+        "_path": "site-packages/nodeenv-1.6.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "2cc023c7126059d178e4c42af3e646d3810c75e15179af0940d17d92f9d7b610",
+        "sha256_in_prefix": "2cc023c7126059d178e4c42af3e646d3810c75e15179af0940d17d92f9d7b610",
+        "size_in_bytes": 42
+      },
+      {
+        "_path": "site-packages/nodeenv-1.6.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "2ae3124020d4e5ae777e9b539faa68a608805a202e3e6faddd13649b8f396da5",
+        "sha256_in_prefix": "2ae3124020d4e5ae777e9b539faa68a608805a202e3e6faddd13649b8f396da5",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "site-packages/nodeenv.py",
+        "path_type": "hardlink",
+        "sha256": "5656a433cbd71166698b5d818219e91e4e6adbac065d2dea32c58949ce5fa398",
+        "sha256_in_prefix": "5656a433cbd71166698b5d818219e91e4e6adbac065d2dea32c58949ce5fa398",
+        "size_in_bytes": 44896
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/nodeenv.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/nodeenv-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/nodeenv.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "1a419fefc3d02169844d27a4f2b27ed72a49930e91d60ed25c461fc06b5b8da5",
+  "size": 31371,
+  "subdir": "noarch",
+  "timestamp": 1617967640244,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/nodeenv-1.6.0-pyhd8ed1ab_0.tar.bz2",
+  "version": "1.6.0"
+}

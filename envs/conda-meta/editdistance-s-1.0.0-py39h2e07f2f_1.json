@@ -1,0 +1,129 @@
+{
+  "build": "py39h2e07f2f_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "cffi >=1",
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012"
+  ],
+  "extracted_package_dir": "C:\\Users\\hp\\anaconda3\\pkgs\\editdistance-s-1.0.0-py39h2e07f2f_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/editdistance_s.cpython-39.pyc",
+    "Lib/site-packages/_editdistance_s.pyd",
+    "Lib/site-packages/editdistance_s-1.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/editdistance_s-1.0.0.dist-info/LICENSE",
+    "Lib/site-packages/editdistance_s-1.0.0.dist-info/METADATA",
+    "Lib/site-packages/editdistance_s-1.0.0.dist-info/RECORD",
+    "Lib/site-packages/editdistance_s-1.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/editdistance_s-1.0.0.dist-info/WHEEL",
+    "Lib/site-packages/editdistance_s-1.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/editdistance_s-1.0.0.dist-info/top_level.txt",
+    "Lib/site-packages/editdistance_s.py",
+    ".nonadmin"
+  ],
+  "fn": "editdistance-s-1.0.0-py39h2e07f2f_1.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\hp\\anaconda3\\pkgs\\editdistance-s-1.0.0-py39h2e07f2f_1",
+    "type": 1
+  },
+  "md5": "06e40ad809a0917a85dfeed5726be674",
+  "name": "editdistance-s",
+  "package_tarball_full_path": "C:\\Users\\hp\\anaconda3\\pkgs\\editdistance-s-1.0.0-py39h2e07f2f_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/editdistance_s.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "967d81c3f456c5c411523f72234088d6896bcd36b80f0f27b4641b7a559089c4",
+        "sha256_in_prefix": "967d81c3f456c5c411523f72234088d6896bcd36b80f0f27b4641b7a559089c4",
+        "size_in_bytes": 362
+      },
+      {
+        "_path": "Lib/site-packages/_editdistance_s.pyd",
+        "path_type": "hardlink",
+        "sha256": "ff56c8cde59fd1e13b6d132e0d53e07cd9de8e56e4a83c23b03803b2160c989a",
+        "sha256_in_prefix": "ff56c8cde59fd1e13b6d132e0d53e07cd9de8e56e4a83c23b03803b2160c989a",
+        "size_in_bytes": 57856
+      },
+      {
+        "_path": "Lib/site-packages/editdistance_s-1.0.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/editdistance_s-1.0.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "2416232c405fc8c35dd5e43d5944a479d41a38a9254b604b6a8477d7f2913a61",
+        "sha256_in_prefix": "2416232c405fc8c35dd5e43d5944a479d41a38a9254b604b6a8477d7f2913a61",
+        "size_in_bytes": 1072
+      },
+      {
+        "_path": "Lib/site-packages/editdistance_s-1.0.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "e82c282a5f6fcf25a2042c67ca68620ede545228442ffcb15a1df39f8f5d209d",
+        "sha256_in_prefix": "e82c282a5f6fcf25a2042c67ca68620ede545228442ffcb15a1df39f8f5d209d",
+        "size_in_bytes": 2230
+      },
+      {
+        "_path": "Lib/site-packages/editdistance_s-1.0.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "2d3d601271446f6b92a257cc7ab79756624e5658ca00a3cfd26deee2717db929",
+        "sha256_in_prefix": "2d3d601271446f6b92a257cc7ab79756624e5658ca00a3cfd26deee2717db929",
+        "size_in_bytes": 916
+      },
+      {
+        "_path": "Lib/site-packages/editdistance_s-1.0.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/editdistance_s-1.0.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "291f2070a5969f7bf0b84128fa39f7befa537d5e218aec2bdc3ef1dae28fbee6",
+        "sha256_in_prefix": "291f2070a5969f7bf0b84128fa39f7befa537d5e218aec2bdc3ef1dae28fbee6",
+        "size_in_bytes": 100
+      },
+      {
+        "_path": "Lib/site-packages/editdistance_s-1.0.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "0de40b456e726ca7414c66b4bb2d3529bb9deb60c0655ef61de6f70b0f0384ae",
+        "sha256_in_prefix": "0de40b456e726ca7414c66b4bb2d3529bb9deb60c0655ef61de6f70b0f0384ae",
+        "size_in_bytes": 75
+      },
+      {
+        "_path": "Lib/site-packages/editdistance_s-1.0.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "2e17f9d109a1641d6246a073f56041af2998e312fa3094d521be8df8d35d14c2",
+        "sha256_in_prefix": "2e17f9d109a1641d6246a073f56041af2998e312fa3094d521be8df8d35d14c2",
+        "size_in_bytes": 31
+      },
+      {
+        "_path": "Lib/site-packages/editdistance_s.py",
+        "path_type": "hardlink",
+        "sha256": "8f8bc7f274ea6f076cb9905fc7fed4b1bd94d31df0015eb7c0841aff3b1fdb64",
+        "sha256_in_prefix": "8f8bc7f274ea6f076cb9905fc7fed4b1bd94d31df0015eb7c0841aff3b1fdb64",
+        "size_in_bytes": 148
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b96731c488fe0711ea52ad86feb0e1bcf0040575496b289cd376afa6652ce7ba",
+  "size": 24741,
+  "subdir": "win-64",
+  "timestamp": 1618488229285,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/editdistance-s-1.0.0-py39h2e07f2f_1.tar.bz2",
+  "version": "1.0.0"
+}
