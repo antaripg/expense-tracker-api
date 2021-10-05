@@ -1,13 +1,15 @@
 from django.shortcuts import render
-from rest_framework.views import APIView
+
+# from rest_framework.views import APIView
 from rest_framework.response import Response
-from django.forms.models import model_to_dict
 from restapi import models, serializers
+from rest_framework.generics import RetrieveUpdateDestroyAPIView, ListCreateAPIView
 
 # Create your views here.
 
 
-class ExpenseListCreate(APIView):
+class ExpenseListCreate(ListCreateAPIView):
+    """class ExpenseListCreate(ListCreateAPIView):
     def get(self, request):
 
         expenses = models.Expense.objects.all()
@@ -20,4 +22,12 @@ class ExpenseListCreate(APIView):
         serializer.is_valid(raise_exception=True)
         serializer.save()
 
-        return Response(serializer.data, status=201)
+        return Response(serializer.data, status=201)"""
+
+    serializer_class = serializers.Expense
+    queryset = models.Expense.objects.all()
+
+
+class ExpenseRetrieveDelete(RetrieveUpdateDestroyAPIView):
+    serializer_class = serializers.Expense
+    queryset = models.Expense.objects.all()
